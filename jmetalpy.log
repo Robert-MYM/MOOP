@@ -6,3 +6,73 @@
 2019-06-06 22:10:45,335 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII-DTLZ1
 2019-06-06 22:12:20,137 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII-DTLZ1
 2019-06-06 22:12:20,140 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII-DTLZ1
+2019-06-10 13:32:34,381 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII-HRES
+2019-06-10 13:32:34,399 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII-HRES
+2019-06-10 13:34:53,777 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII-HRES
+2019-06-10 13:34:53,778 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII-HRES
+2019-06-10 13:35:40,355 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII-HRES
+2019-06-10 13:35:40,358 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII-HRES
+2019-06-10 13:37:31,928 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII-HRES
+2019-06-10 13:37:31,929 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII-HRES
+2019-06-10 13:50:27,882 [MainThread  ] [INFO ]  Output file (function values): FUN.SMPSO-HRES
+2019-06-10 13:50:27,883 [MainThread  ] [INFO ]  Output file (variables): VAR.SMPSO-HRES
+2019-06-10 13:51:16,498 [MainThread  ] [INFO ]  Output file (function values): FUN.SMPSO-HRES
+2019-06-10 13:51:16,499 [MainThread  ] [INFO ]  Output file (variables): VAR.SMPSO-HRES
+2019-06-10 13:56:24,436 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII-HRES
+2019-06-10 13:56:24,439 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII-HRES
+2019-06-10 16:13:18,704 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII-HRES
+2019-06-10 16:13:18,705 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII-HRES
+2019-06-10 16:17:58,088 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII-HRES
+2019-06-10 16:17:58,089 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII-HRES
+2019-06-10 16:22:25,739 [MainThread  ] [INFO ]  Output file (function values): FUN.SMPSO-HRES
+2019-06-10 16:22:25,739 [MainThread  ] [INFO ]  Output file (variables): VAR.SMPSO-HRES
+2019-06-10 16:31:31,998 [MainThread  ] [INFO ]  Output file (function values): FUN.SMPSO-HRES
+2019-06-10 16:31:32,000 [MainThread  ] [INFO ]  Output file (variables): VAR.SMPSO-HRES
+2019-06-10 16:31:49,152 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII-HRES
+2019-06-10 16:31:49,153 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII-HRES
+2019-06-10 16:36:30,930 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII-HRES
+2019-06-10 16:36:30,931 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII-HRES
+2019-06-10 16:38:46,943 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII-HRES
+2019-06-10 16:38:46,945 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII-HRES
+2019-06-10 16:39:39,538 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII-HRES
+2019-06-10 16:39:39,539 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII-HRES
+2019-06-10 16:39:51,181 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII-HRES
+2019-06-10 16:39:51,182 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII-HRES
+2019-06-10 16:41:10,708 [MainThread  ] [INFO ]  Output file (function values): FUN.SMPSO-HRES
+2019-06-10 16:41:10,710 [MainThread  ] [INFO ]  Output file (variables): VAR.SMPSO-HRES
+2019-06-10 16:41:23,487 [MainThread  ] [INFO ]  Output file (function values): FUN.SMPSO-HRES
+2019-06-10 16:41:23,488 [MainThread  ] [INFO ]  Output file (variables): VAR.SMPSO-HRES
+2019-06-10 16:41:49,711 [MainThread  ] [INFO ]  Output file (function values): FUN.SMPSO-HRES
+2019-06-10 16:41:49,712 [MainThread  ] [INFO ]  Output file (variables): VAR.SMPSO-HRES
+2019-06-10 16:55:01,080 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII-HRES
+2019-06-10 16:55:01,082 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII-HRES
+2019-06-10 16:56:56,831 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII-HRES
+2019-06-10 16:56:56,833 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII-HRES
+2019-06-10 16:57:13,100 [MainThread  ] [INFO ]  Output file (function values): FUN.SMPSO-HRES
+2019-06-10 16:57:13,101 [MainThread  ] [INFO ]  Output file (variables): VAR.SMPSO-HRES
+2019-06-11 11:37:56,934 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII-HRES
+2019-06-11 11:37:56,935 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII-HRES
+2019-06-11 11:38:08,010 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII-HRES
+2019-06-11 11:38:08,013 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII-HRES
+2019-06-11 11:38:19,047 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII-HRES
+2019-06-11 11:38:19,048 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII-HRES
+2019-06-11 11:38:30,011 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII-HRES
+2019-06-11 11:38:30,014 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII-HRES
+2019-06-11 11:41:35,081 [MainThread  ] [INFO ]  Output file (function values): FUN.SMPSO-HRES
+2019-06-11 11:41:35,082 [MainThread  ] [INFO ]  Output file (variables): VAR.SMPSO-HRES
+2019-06-11 11:41:48,023 [MainThread  ] [INFO ]  Output file (function values): FUN.SMPSO-HRES
+2019-06-11 11:41:48,024 [MainThread  ] [INFO ]  Output file (variables): VAR.SMPSO-HRES
+2019-06-11 11:45:34,188 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII-HRES
+2019-06-11 11:45:34,190 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII-HRES
+2019-06-11 11:46:02,231 [MainThread  ] [INFO ]  Output file (function values): FUN.SMPSO-HRES
+2019-06-11 11:46:02,232 [MainThread  ] [INFO ]  Output file (variables): VAR.SMPSO-HRES
+2019-06-11 11:46:17,638 [MainThread  ] [INFO ]  Output file (function values): FUN.SMPSO-HRES
+2019-06-11 11:46:17,640 [MainThread  ] [INFO ]  Output file (variables): VAR.SMPSO-HRES
+2019-06-11 11:47:52,698 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII-HRES
+2019-06-11 11:47:52,700 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII-HRES
+2019-06-11 15:51:01,830 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII-HRES
+2019-06-11 15:51:01,841 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII-HRES
+2019-06-11 15:51:48,294 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII-HRES
+2019-06-11 15:51:48,295 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII-HRES
+2019-06-11 15:53:28,268 [MainThread  ] [INFO ]  Output file (function values): FUN.SMPSO-HRES
+2019-06-11 15:53:28,269 [MainThread  ] [INFO ]  Output file (variables): VAR.SMPSO-HRES
