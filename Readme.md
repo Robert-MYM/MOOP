@@ -1,4 +1,5 @@
 # Preparing
+This project is for the ASE(advanced software engineering) course in Nuaa.
 This project is based on JMetalPy, a framework under python.  
 **ALL YOU NEED**  
 `Python >=3.8`  
